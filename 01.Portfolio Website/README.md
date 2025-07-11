@@ -62,5 +62,5 @@ portfolio/
 ### **Local Development**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Sudharshan172/Simple-Portfolio
+   https://github.com/Sudharshan172/React-Hooks/tree/main/01.Portfolio%20Website
    ```
