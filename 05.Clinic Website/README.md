@@ -1,4 +1,4 @@
-# 🏥 Clinic Website - Beautiful SPA built with React + Vite + Tailwind CSS
+# Clinic Website - Beautiful SPA built with React + Vite + Tailwind CSS
 
 A visually appealing single-page application (SPA) for a clinic, crafted using **React**, **Vite**, and **Tailwind CSS**. This project focuses on mastering frontend fundamentals, including routing via hash fragments (`#services`, `#about` etc...), animations, hooks, and responsive design—all in a performant modern stack.
 
@@ -30,7 +30,7 @@ A visually appealing single-page application (SPA) for a clinic, crafted using *
 
 ## 🔧 Installation & Setup
 ```bash
-git clone https://github.com/your-username/clinic-website.git
+git clone https://github.com/Sudharshan172/React-Hooks/tree/main/05.Clinic%20Website
 cd clinic-website
 npm install
 npm run dev
