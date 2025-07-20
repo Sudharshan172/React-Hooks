@@ -23,7 +23,7 @@ const About = () => {
     ];
     return(
         <section id="about" className="py-14 overflow-hidden bg-gradient-to-br from-pink-100 to-purple-100">
-            <div className="container mx-auto px-4">
+            <div className="max-w-screen-xl px-4">
                 <article data-aos="fade-up" data-aos-delay='400' className="flex flex-col lg:flex-row items-center gap-12">
                     <figure className="lg:w-5/12 relative">
                         <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl w-full max-w-md mx-auto">
