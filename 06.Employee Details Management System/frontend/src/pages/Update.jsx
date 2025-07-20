@@ -51,7 +51,7 @@ const Update = () => {
   };
 
   return (
-    <section id="Update" className="p-6 container mx-auto min-h-screen">
+    <section id="Update" className="p-6 max-w-screen-xl min-h-screen">
       <h2 className="text-2xl font-bold mb-4">Update Employee</h2>
       <form className="grid gap-4 max-w-sm" onSubmit={handleSubmit}>
         <div>
