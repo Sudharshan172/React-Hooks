@@ -50,7 +50,7 @@ const Footer = () => {
     ];
     return (
         <footer className='bg-gray-900 text-white pt-16 pb-8'>
-            <div className="container mx-auto px-4">
+            <div className="max-w-screen-xl px-4">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
                     <section className="lg:col-span-2">
                         <header className="flex items-center mb-6">
