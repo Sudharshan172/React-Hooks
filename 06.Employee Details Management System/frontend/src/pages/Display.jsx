@@ -8,7 +8,7 @@ const Display = () => {
   const fetchEmployees = async () => {
     setLoading(true);
     try {
-      const res = await fetch("http://localhost:8000/api/display/");
+      const res = await fetch("https://employee-details-management-system.onrender.com/api/display/");
       const data = await res.json();
       setEmployees(data);
       setHasFetched(true);
