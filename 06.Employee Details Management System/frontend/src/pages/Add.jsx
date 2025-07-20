@@ -50,7 +50,7 @@ const Add = () => {
   };
 
   return (
-    <section id="Add" className="p-6 container mx-auto">
+    <section id="Add" className="p-6 max-w-screen-xl">
       <h2 className="text-2xl font-bold mb-4">Add Employee</h2>
       <form className="grid gap-4 max-w-sm" onSubmit={handleSubmit}>
         {["name", "email", "designation", "department", "salary"].map((field) => (
