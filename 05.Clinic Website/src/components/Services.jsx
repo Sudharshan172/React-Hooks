@@ -31,7 +31,7 @@ const Services = () => {
     return (
         <section id="services" className="py-20 overflow-hidden bg-gradient-to-r from-pink-100 to-purple-100"
         aria-labelledby="services-heading">
-            <div className="container mx-auto px-4">
+            <div className="max-w-screen-xl px-4">
                 <header data-aos='fade-up' data-aos-delay='500' className="text-center mb-16">
                     <h2 id="services-heading" className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
                         Our <span className="text-pink-600">Premium Services</span>
