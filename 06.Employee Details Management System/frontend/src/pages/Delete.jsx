@@ -12,7 +12,7 @@ const Delete = () => {
     }
 
     try {
-      const res = await fetch("http://localhost:8000/api/delete/", {
+      const res = await fetch("https://employee-details-management-system.onrender.com/api/delete/", {
         method: "DELETE",
         headers: {
           "Content-Type": "application/json"
