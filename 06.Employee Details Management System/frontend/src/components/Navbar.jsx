@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <nav className="bg-blue-500 text-white">
-      <div className="container mx-auto p-4 flex items-center justify-between relative">
+      <div className="max-w-screen-xl p-4 flex items-center justify-between relative">
         <div className="text-xl font-bold p-2">Employee System</div>
 
         <ul className="hidden md:flex gap-6">
