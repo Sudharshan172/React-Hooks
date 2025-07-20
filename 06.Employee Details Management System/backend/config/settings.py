@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-9jp@xq-dh6xl&1si*up#6je-b29(5ns=@lm#ku&e-k1#@$n4lu
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://employee-details-management-system.onrender.com',
+    'employee-details-management-system.onrender.com',
+    'employee-details-management-system-2w3y.onrender.com'
     'localhost',
     '127.0.0.1'
 ]
@@ -130,6 +131,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
-    "https://ipo-web-app.onrender.com",    # Deployed React frontend
+    "https://employee-details-management-system-2w3y.onrender.com",    # Deployed React frontend
     "http://localhost:5173",               # Local React frontend for development
 ]
