@@ -34,7 +34,7 @@ const Delete = () => {
   };
 
   return (
-    <section id="Delete" className="p-6 min-h-screen container mx-auto">
+    <section id="Delete" className="p-6 min-h-screen max-w-screen-xl">
       <h2 className="text-2xl font-bold mb-4">Delete Employee</h2>
       <form className="grid gap-4 max-w-sm" onSubmit={handleDelete}>
         <div>
