@@ -23,7 +23,7 @@ const Update = () => {
     }
 
     try {
-      const res = await fetch("http://localhost:8000/api/update/", {
+      const res = await fetch("https://employee-details-management-system.onrender.com/api/update/", {
         method: "PUT",
         headers: {
           "Content-Type": "application/json"
