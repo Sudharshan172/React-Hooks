@@ -38,7 +38,7 @@ const Specialists = () => {
     }
     return (
         <section id="specialists" className="py-20 overflow-hidden bg-gradient-to-r from-pink-100 bg-purple-100">
-            <div className="max-w-screen-xl px-4">
+            <div className="container mx-auto px-4">
                 <header data-aos='fade-up' data-aos-delay='400' className="text-center mb-16 relative">
                     <span className="absolute -top-10 left-1/2 transform -translate-x-1/2 w-20 h-20 rounded-full bg-pink-100 opacity-30 z-0" aria-hidden='true'></span>
                     <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4 relative z-10">
