@@ -20,7 +20,7 @@ const Add = () => {
     e.preventDefault();
 
     try {
-      const res = await fetch("http://localhost:8000/api/add/", {
+      const res = await fetch("https://employee-details-management-system.onrender.com/api/add/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
