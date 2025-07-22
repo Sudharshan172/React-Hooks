@@ -2,6 +2,9 @@
 
 A fullstack employee management application built with **React + Vite**, **Tailwind CSS**, and **Django + MySQL**. Features include CRUD operations, CORS integration and a responsive UI optimized for real-world workflows.
 
+## 🚀 Live Demo
+🔗 [Click here to view the live site](https://employee-details-management-system-2w3y.onrender.com)
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React, Vite, Tailwind CSS
