@@ -2,6 +2,9 @@
 
 A fully responsive ecommerce platform built using React (Vite), Tailwind CSS, and JWT-based authentication via CCBP APIs.
 
+## 🚀 Live Demo
+🔗 [Click here to view the live site](https://ecommerce-nxttrendz.onrender.com/)
+
 ## 🚀 Features
 
 - 🔐 User Login with JWT authentication
