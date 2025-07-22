@@ -8,12 +8,12 @@ This repository contains projects that are implemented using React Hooks Concept
 
 | Project Name                        | Live Demo                                             |
 |------------------------------------|-------------------------------------------------------|
-| Ecommerce Application              | [Visit](https://ecommerce-application.vercel.app/)    |
-| Authentication Page                | [Visit](https://authentication-page.vercel.app/)      |
-| Portfolio Website                  | [Visit](https://portfolio-website.vercel.app/)        |
-| Employee Details Management System | [Visit](https://employee-details-management-system.vercel.app/) |
-| Clinic Website                     | [Visit](https://clinic-website.vercel.app/)           |
-| Jobs Application                   | [Visit](https://jobs-application.vercel.app/)         |
+| Ecommerce Application              | [Ecommerce Website](https://ecommerce-nxttrendz.onrender.com/)    |
+| Authentication Page                ||
+| Portfolio Website                  ||
+| Employee Details Management System | [Employee Management System](https://employee-details-management-system-2w3y.onrender.com) |
+| Clinic Website                     | [Skin Care Clinic Website](https://skincare-clinic-website.onrender.com)           |
+| Jobs Application                   ||
 
 ---
 
