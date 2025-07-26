@@ -12,8 +12,8 @@ This repository contains projects that are implemented using React Hooks Concept
 | Authentication Page                ||
 | Portfolio Website                  |[Portfolio](https://portfolio-ydke.onrender.com/)|
 | Employee Details Management System | [Employee Management System](https://employee-details-management-system-2w3y.onrender.com) |
-| Clinic Website                     | [Skin Care Clinic Website](https://skincare-clinic-website.onrender.com)           |
-| Jobs Application                   ||
+| Clinic Website                     | [Skin Care Clinic Website](https://skincare-clinic-website.onrender.com)          |
+| Jobs Application                   |[Jobs Application](https://jobs-application-hk7d.onrender.com)|
 
 ---
 
